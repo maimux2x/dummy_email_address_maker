@@ -5,7 +5,7 @@ const option = process.argv.slice(2);
 const dummyEmailAddress = new dummyEmailAddressMaker();
 
 if (option[0] === "-r") {
-  dummyEmailAddress.createRondom();
+  dummyEmailAddress.createRandom();
 } else if (option[0] === "-c") {
   dummyEmailAddress.createCustom();
 }

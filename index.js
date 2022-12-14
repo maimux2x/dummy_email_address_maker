@@ -6,7 +6,7 @@ export class dummyEmailAddressMaker {
     this.dummyDomain = "example.com";
   }
 
-  createRondom() {
+  createRandom() {
     let result = "";
     const availableChar =
       "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
