@@ -1,4 +1,5 @@
 # dummy_email_address_maker
+<<<<<<< HEAD
 easily to make dummy email address for user test!
 # install
 ```
@@ -18,3 +19,5 @@ dummy_email_address_maker -c
 Making dummy e-mail address! Please input one word! maimu
 Here dummy e-mail address: test-maimu@example.com
 ```
+=======
+>>>>>>> main
