@@ -1,0 +1,26 @@
+{
+  "name": "dummy_email_address_maker",
+  "version": "1.0.0",
+  "description": "easily to make dummy email address for user test!",
+  "main": "main.js",
+  "bin": {
+    "dummy_email_address_maker": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maimux2x/dummy_email_address_maker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maimux2x/dummy_email_address_maker/issues"
+  },
+  "homepage": "https://github.com/maimux2x/dummy_email_address_maker",
+  "keywords": [
+    "email"
+  ],
+  "author": "maimux2x",
+  "license": "MIT",
+  "type": "module"
+}
