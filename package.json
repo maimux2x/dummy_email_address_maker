@@ -1,6 +1,6 @@
 {
   "name": "dummy_email_address_maker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "easily to make dummy email address for user test!",
   "main": "main.js",
   "bin": {
