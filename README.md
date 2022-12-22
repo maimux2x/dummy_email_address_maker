@@ -6,10 +6,14 @@ npm install -g dummy_email_address_maker
 ```
 # usage
 ## You can get random words email address
-Please use `r` option.
+Please run `dummy_email_address_maker` command.
+Or using `r` option, you can get same result.
 ```
-$ dummy_email_address_maker -r
+$ dummy_email_address_maker
 Here dummy e-mail address: cA6UwemK52@example.com
+
+$ dummy_email_address_maker -r
+Here dummy e-mail address: jBMgmU5GyC@example.com
 ```
 ## Another is to get custom email address
 Please use `c` option.
@@ -19,3 +23,6 @@ Making dummy e-mail address! Please input one word! maimu
 Here dummy e-mail address: test-maimu@example.com
 ```
 
+# attention
+1. Please use node version over 17.0.0.
+2. Dummy email address's domain is only `example.com`
